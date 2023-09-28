@@ -27,7 +27,7 @@ class BaseController extends Controller
 
     /*public function myMember(Request $request)
     {
-        try{
+        try{  
             $validatorRules = [
                 'conact_member_id' => 'required',
                 'PPID' => 'required',
