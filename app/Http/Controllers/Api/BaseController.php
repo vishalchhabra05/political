@@ -24,7 +24,7 @@ use App\Models\UserPollAnswer;
 
 class BaseController extends Controller
 {
-    222222222222222222222222
+    11111111111111
     /*public function myMember(Request $request)
     {
         try{  
