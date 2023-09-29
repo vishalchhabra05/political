@@ -32,7 +32,6 @@ use JWTAuthException;
 class MemberController extends Controller
 {
 
-    11111111111111111111
     public function viewMyMemberDetail(Request $request)
     {
         try{
